@@ -1,1 +1,11 @@
-
+[Adblock Plus 2.0]
+! Version: 2
+! Title: Brauner Dreck
+! Last modified: 29 Mar 2021 23:34 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/afgeissler/adblock-lists/
+!
+||konservativeraufbruch.de^
+||compact-online.de^
+||journalistenwatch.com^
+||unz.com^
